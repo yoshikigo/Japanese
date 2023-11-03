@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3488b50503270c3c","type":"file","file":"Japanese/動詞變化/あ段/使役受身形.md","x":-900,"y":-660,"width":400,"height":400},
+		{"id":"9257b1590d48158f","x":-500,"y":-660,"width":400,"height":400,"type":"file","file":"Japanese/動詞變化/あ段/受身形.md"},
+		{"id":"e2ddfb1cda5b5368","x":-900,"y":-260,"width":400,"height":400,"type":"file","file":"Japanese/動詞變化/あ段/使役形.md"},
+		{"id":"2ebe6f13bab501c6","x":-500,"y":-260,"width":400,"height":400,"type":"file","file":"Japanese/動詞變化/え段/可能動詞.md"}
+	],
+	"edges":[]
+}
